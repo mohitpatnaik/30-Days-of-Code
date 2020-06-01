@@ -1,1 +1,10 @@
-30 Days of Code
+30 Days Of Code - Log
+Round 1
+Objective : Learning Flutter and Improving my DS skills
+Day 01: June 1, 2020
+
+Today's Progress: Started learning flutter and completed Mini topic Flutter Power.
+
+Thoughts: Learned about Scaffold , Container and Text
+
+Link to work: 
